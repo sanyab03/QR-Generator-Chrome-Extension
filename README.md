@@ -21,8 +21,6 @@ Author-Sanya Bansal
   <h2>Credits:</h2>
            <p> This chrome extension was developed by Sanya Bansal </p> 
 
-        <h2>Contributing:</h2>
-<p>Contributions to the QR Generator Chrome Extension are welcome! To contribute, please fork the repository, make your changes, and submit a pull request.</p>
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License.</p>
